@@ -1,0 +1,14 @@
+[
+    {
+        "number": "4535060364271619",
+        "digits": 16,
+        "digit_sum": 70,
+        "valid": true
+    },
+    {
+        "number": "4574310233531590",
+        "digits": 16,
+        "digit_sum": 60,
+        "valid": true
+    }
+]
