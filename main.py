@@ -1,5 +1,7 @@
 from functions import clear
 
+print("teehee")
+
 def password():
     from password import password
     a = int(input("arg hmSections > "))
