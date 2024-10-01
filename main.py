@@ -30,6 +30,9 @@ def fileaverage():
 def markov():
     from markov import generate_text; generate_text()
 
+def cringe():
+    from cringe import are_you_cringe; are_you_cringe()
+
 def directory():
     from directory import directory; directory()
 
@@ -43,7 +46,8 @@ function_dict = {
     'strdiv':strdiv,
     'favg':fileaverage,
     'directory':directory,
-    'markov': markov
+    'markov': markov,
+    'amicringe': cringe
 }
 
 while True:
